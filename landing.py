@@ -13,7 +13,7 @@
 # programming experience, this course will help you understand and implement key
 # concepts in 3D vision.
 #
-# ## Deliverables
+# ### Deliverables
 #
 # The following [workshop website](https://tamilarasee.github.io/3d-vision-pipeline/)
 # is my deliverable for this project. Each participant will create their own fork of
